@@ -168,5 +168,5 @@ cython_debug/
 # project environment
 env_recsys_start/
 catboost_info
-als_model.pkl
+*.pkl
 eda.py
